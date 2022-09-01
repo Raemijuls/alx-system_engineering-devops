@@ -5,3 +5,4 @@ Display current directory contents in a long format
 Display current directory contents, including hidden files
 Display directory contents, long format, with numeric user and ID, and hidden files.
 Create a directory named my_first_directory in the /tmp/ directory.
+Move the file betty from /tmp/ to /tmp/my_first_directory.
